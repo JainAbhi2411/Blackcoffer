@@ -31,8 +31,8 @@ This project is a React Native implementation of two core screens from the **BWS
 
 1. **Clone the repository**  
 ```bash
-git clone https://github.com/your-username/bwstory-app.git
-cd bwstory-app
+git clone https://github.com/JainAbhi2411/Blackcoffer.git
+cd BWStoryTest1
 
 npm install
 npx expo start
